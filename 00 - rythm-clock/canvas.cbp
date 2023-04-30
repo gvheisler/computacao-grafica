@@ -48,8 +48,8 @@
 		<Unit filename="src/gl_canvas2d.cpp" />
 		<Unit filename="src/gl_canvas2d.h" />
 		<Unit filename="src/main.cpp" />
-		<Unit filename="src/point.h" />
-		<Unit filename="src/quadrado.h" />
+		<Unit filename="src/pendulo.h" />
+		<Unit filename="src/penduloManager.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
