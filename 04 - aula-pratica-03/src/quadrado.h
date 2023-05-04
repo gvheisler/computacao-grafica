@@ -34,10 +34,7 @@ public:
 
     }
     void render(){
-        //CV::color(1,0,0);
         CV::polygonFill(posicaoX, posicaoY, 4);
-        /*CV::color(0.7,0,0);
-        CV::polygonFill(posicaoXc, posicaoYc, 4);*/
     }
 
     void rotaciona(float _rotacao){

@@ -6,6 +6,7 @@ public:
     int x, y;
     float ang = 270 * (PI/180), raio;
     bool antiHorario = true;
+    int vel = 40;
     Pendulo(int _x, int _y, float _raio){
         x = _x;
         y = _y;
@@ -19,7 +20,7 @@ public:
         if(xN >-0.05 && xN<0.05 && yN < 0){
             antiHorario = !antiHorario;
         }
-        antiHorario ? (ang += (1/(raio/5)) * (PI/180)) : (ang -= (1/(raio/5)) * (PI/180));
+        antiHorario ? (ang += (1/(raio/vel)) * (PI/180)) : (ang -= (1/(raio/vel)) * (PI/180));
         CV::circleFill(xN,yN,3,10);
     }
 

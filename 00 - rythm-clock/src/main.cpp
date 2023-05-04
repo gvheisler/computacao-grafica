@@ -53,7 +53,7 @@ void mouse(int button, int state, int wheel, int direction, int x, int y){
 int main(void){
     CV::init(&screenWidth, &screenHeight, "Programa demo");
     pendulos = new PenduloManager(0,0);
-    for(int i = 15; i<150; i+=15){
+    for(int i = 5; i<500; i+=10){
         pendulos->addPendulo(i);
     }
 

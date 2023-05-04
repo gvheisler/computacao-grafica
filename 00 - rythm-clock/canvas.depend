@@ -63,7 +63,7 @@
 
 1682422880 c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\vector2.h
 
-1682838171 source:c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\main.cpp
+1682860492 source:c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
 	<math.h>
@@ -72,7 +72,7 @@
 	"gl_canvas2d.h"
 	"penduloManager.h"
 
-1682837721 c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\pendulo.h
+1682860445 c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\pendulo.h
 
 1682837018 c:\users\gvheisler\desktop\computacao-grafica\00 - rythm-clock\src\pendulomanager.h
 	"pendulo.h"
