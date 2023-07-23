@@ -1,0 +1,6 @@
+Sites de DCT
+
+http://www.ece.purdue.edu/~ace/jpeg-tut/jpgdct1.html
+http://vision.arc.nasa.gov/publications/mathjournal94.pdf
+http://bigwww.epfl.ch/demo/basisdct/ -->OTIMO
+ftp://download.intel.com/design/perftool/cbts/appnotes/ap922/ap922.pdf

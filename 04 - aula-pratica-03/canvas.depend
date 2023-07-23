@@ -31,7 +31,7 @@
 
 1682422880 c:\users\gvheisler\desktop\computacao-grafica\04 - aula-pratica-03\src\vector2.h
 
-1682601190 source:c:\users\gvheisler\desktop\computacao-grafica\04 - aula-pratica-03\src\main.cpp
+1685643893 source:c:\users\gvheisler\desktop\computacao-grafica\04 - aula-pratica-03\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
 	<math.h>
@@ -39,7 +39,6 @@
 	<stdlib.h>
 	<vector>
 	"gl_canvas2d.h"
-	"quadrado.h"
 
 1682601542 c:\users\gvheisler\desktop\computacao-grafica\04 - aula-pratica-03\src\quadrado.h
 	"gl_canvas2d.h"

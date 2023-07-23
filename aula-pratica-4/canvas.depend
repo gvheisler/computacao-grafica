@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1626955631 source:c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\gvhei\desktop\computacao-grafica\01 - demo inicial\src\vector2.h
+
+1682422880 source:c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1682422880 c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1682422880 c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\include\gl\glut.h
+	"freeglut_std.h"
+
+1682422880 c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1682422880 c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1685015047 c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\src\vector2.h
+
+1685015286 source:c:\users\gvheisler\desktop\computacao-grafica\aula-pratica-4\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"gl_canvas2d.h"
+

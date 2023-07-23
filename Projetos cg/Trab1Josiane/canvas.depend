@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1682094076 source:d:\josiane\documents\ufsm\cg\demos\t1\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\t1\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\josiane\documents\ufsm\cg\demos\t1\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\josiane\documents\ufsm\cg\demos\t1\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\josiane\documents\ufsm\cg\demos\t1\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\t1\src\vector2.h
+
+1682123804 source:d:\josiane\documents\ufsm\cg\demos\t1\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	<vector>
+	"gl_canvas2d.h"
+	"gerenciadorDeBotoes.h"
+	"formas.h"
+	"auxiliar.h"
+
+1589214882 d:\josiane\documents\ufsm\cg\demos\t1\src\bola.h
+	"gl_canvas2d.h"
+
+1680457277 d:\josiane\documents\ufsm\cg\demos\t1\src\relogio.h
+	"gl_canvas2d.h"
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\t1\src\botao.h
+	"gl_canvas2d.h"
+	<functional>
+
+1680457243 source:d:\josiane\documents\ufsm\cg\demos\t1\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	"gl_canvas2d.h"
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\t1\src\imagem.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1682124012 d:\josiane\documents\ufsm\cg\demos\t1\src\gerenciadordebotoes.h
+	"Botao.h"
+	<functional>
+
+1682124088 d:\josiane\documents\ufsm\cg\demos\t1\src\formas.h
+	"gl_canvas2d.h"
+	<stdio.h>
+
+1682124180 d:\josiane\documents\ufsm\cg\demos\t1\src\auxiliar.h
+
+1682121843 d:\josiane\documents\ufsm\cg\demos\t1\src\colorselect.h
+	<stdio.h>
+	"gl_canvas2d.h"
+
+1682094076 source:d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\josiane\documents\ufsm\cg\demos\trab1josiane\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\josiane\documents\ufsm\cg\demos\trab1josiane\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\josiane\documents\ufsm\cg\demos\trab1josiane\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\vector2.h
+
+1682127558 source:d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	<vector>
+	<fstream>
+	"gl_canvas2d.h"
+	"gerenciadorDeBotoes.h"
+	"formas.h"
+	"auxiliar.h"
+
+1682124012 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\gerenciadordebotoes.h
+	"Botao.h"
+	<functional>
+
+1682094076 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\botao.h
+	"gl_canvas2d.h"
+	<functional>
+
+1682127192 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\formas.h
+	"gl_canvas2d.h"
+	<stdio.h>
+
+1682124180 d:\josiane\documents\ufsm\cg\demos\trab1josiane\src\auxiliar.h
+
+1682094076 source:c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1682094076 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\gvheisler\desktop\projetos cg\trab1josiane\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\gvheisler\desktop\projetos cg\trab1josiane\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\gvheisler\desktop\projetos cg\trab1josiane\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1682094076 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\vector2.h
+
+1682128774 source:c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	<vector>
+	<fstream>
+	"gl_canvas2d.h"
+	"gerenciadorDeBotoes.h"
+	"formas.h"
+	"auxiliar.h"
+
+1682124012 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\gerenciadordebotoes.h
+	"Botao.h"
+	<functional>
+
+1682094076 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\botao.h
+	"gl_canvas2d.h"
+	<functional>
+
+1682128760 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\formas.h
+	"gl_canvas2d.h"
+	<stdio.h>
+
+1682124180 c:\users\gvheisler\desktop\projetos cg\trab1josiane\src\auxiliar.h
+
